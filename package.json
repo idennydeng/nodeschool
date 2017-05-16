@@ -2,5 +2,13 @@
   "name": "nodeschool",
   "author": "Denny Deng <i@dennydeng.com>",
   "description": "My solutions for nodeschool.io",
-  "homepage": "https://github.com/idennydeng/nodeschool"
+  "homepage": "https://github.com/idennydeng/nodeschool",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint .;exit 0"
+  },
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-config-airbnb-base": "11.2.0"
+  }
 }
