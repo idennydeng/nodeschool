@@ -28,7 +28,7 @@ These are my solutions for [nodeschool.io](http://nodeschool.io/).
   - [ ] [thinking-in-react](https://github.com/asbjornenge/thinking-in-react)
 
 - Node.js
-  - [ ] [learnyounode](https://github.com/workshopper/learnyounode)
+  - [*] [learnyounode](https://github.com/workshopper/learnyounode)
   - [ ] [stream-adventure](https://github.com/workshopper/stream-adventure)
   - [ ] [goingnative](https://github.com/workshopper/goingnative)
   - [ ] [learnuv](https://github.com/thlorenz/learnuv)

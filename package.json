@@ -10,5 +10,9 @@
     "eslint": "3.19.0",
     "eslint-plugin-import": "2.2.0",
     "eslint-config-airbnb-base": "11.2.0"
+    "learnyounode": "3.5.10",
+  },
+  "dependencies": {
+    "moment": "2.18.1"
   }
 }
