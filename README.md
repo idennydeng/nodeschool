@@ -11,7 +11,7 @@ These are my solutions for [nodeschool.io](http://nodeschool.io/).
 
 - JavaScript
   - [x] [javascripting](https://github.com/sethvincent/javascripting)
-  - [ ] [scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
+  - [x] [scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
   - [ ] [regex-adventure](https://github.com/workshopper/regex-adventure)
   - [ ] [functional-javascript](https://github.com/timoxley/functional-javascript-workshop)
   - [ ] [currying-workshopper](https://github.com/kishorsharma/currying-workshopper)

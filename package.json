@@ -11,7 +11,8 @@
     "eslint-config-airbnb-base": "11.2.0",
     "eslint-plugin-import": "2.2.0",
     "javascripting": "2.6.1",
-    "learnyounode": "3.5.10"
+    "learnyounode": "3.5.10",
+    "scope-chains-closures": "1.0.4"
   },
   "dependencies": {
     "moment": "2.18.1"
