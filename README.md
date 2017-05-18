@@ -10,7 +10,7 @@ These are my solutions for [nodeschool.io](http://nodeschool.io/).
   - [ ] [learn-sass](https://github.com/workshopper/learn-sass)
 
 - JavaScript
-  - [ ] [javascripting](https://github.com/sethvincent/javascripting)
+  - [x] [javascripting](https://github.com/sethvincent/javascripting)
   - [ ] [scope-chains-closures](https://github.com/jesstelford/scope-chains-closures)
   - [ ] [regex-adventure](https://github.com/workshopper/regex-adventure)
   - [ ] [functional-javascript](https://github.com/timoxley/functional-javascript-workshop)
