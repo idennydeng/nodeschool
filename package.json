@@ -15,6 +15,7 @@
     "regex-adventure": "1.1.2",
     "currying-workshopper": "1.0.17",
     "functional-javascript-workshop": "1.0.6",
+    "count-to-6": "0.8.3",
     "learnyounode": "3.5.10"
   },
   "dependencies": {
