@@ -10,6 +10,7 @@
     "eslint": "3.19.0",
     "eslint-config-airbnb-base": "11.2.0",
     "eslint-plugin-import": "2.2.0",
+    "functional-javascript-workshop": "1.0.6",
     "javascripting": "2.6.1",
     "learnyounode": "3.5.10",
     "regex-adventure": "1.1.2",
