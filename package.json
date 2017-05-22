@@ -8,13 +8,14 @@
   },
   "devDependencies": {
     "eslint": "3.19.0",
-    "eslint-config-airbnb-base": "11.2.0",
     "eslint-plugin-import": "2.2.0",
-    "functional-javascript-workshop": "1.0.6",
+    "eslint-config-airbnb-base": "11.2.0",
     "javascripting": "2.6.1",
-    "learnyounode": "3.5.10",
+    "scope-chains-closures": "1.0.4",
     "regex-adventure": "1.1.2",
-    "scope-chains-closures": "1.0.4"
+    "currying-workshopper": "1.0.17",
+    "functional-javascript-workshop": "1.0.6",
+    "learnyounode": "3.5.10"
   },
   "dependencies": {
     "marked": "0.3.6",
