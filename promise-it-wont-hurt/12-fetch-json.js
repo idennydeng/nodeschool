@@ -1,4 +1,4 @@
-// const http = require("http");
+// const http = require('http');
 // http.get('http://localhost:1337/', (res) => {
 //     const { statusCode } = res;
 //     if (statusCode === 200) {
@@ -9,7 +9,7 @@
 //     }
 // });
 
-const http = require("q-io/http");
+const http = require('q-io/http');
 
 http.read('http://localhost:1337/')
     .then(JSON.parse)

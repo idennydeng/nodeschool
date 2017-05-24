@@ -1,1 +1,1 @@
-first().then(second).then(console.log);
+global.first().then(global.second).then(console.log);

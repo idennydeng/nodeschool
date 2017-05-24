@@ -1,9 +1,9 @@
-var foot = {
-    kick: function () {
-        this.yelp = "Ouch!";
+const foot = {
+    kick: () => {
+        this.yelp = 'Ouch!';
         setImmediate(() => {
             console.log(this.yelp);
         });
-    }
+    },
 };
 foot.kick();

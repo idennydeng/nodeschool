@@ -1,4 +1,4 @@
 module.exports = (...numbers) => {
-    const total = numbers.reduce((total, n) => total + n, 0);
+    const total = numbers.reduce((initial, n) => initial + n, 0);
     return total / numbers.length;
-}
+};
