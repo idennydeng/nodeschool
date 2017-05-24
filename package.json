@@ -16,10 +16,12 @@
     "currying-workshopper": "1.0.17",
     "functional-javascript-workshop": "1.0.6",
     "count-to-6": "0.8.3",
+    "promise-it-wont-hurt": "1.0.0-alpha.2",
     "learnyounode": "3.5.10"
   },
   "dependencies": {
     "marked": "0.3.6",
-    "moment": "2.18.1"
+    "moment": "2.18.1",
+    "q-io": "1.13.4"
   }
 }

@@ -16,7 +16,7 @@ These are my solutions for [nodeschool.io](http://nodeschool.io/).
   - [x] [functional-javascript](https://github.com/timoxley/functional-javascript-workshop)
   - [x] [currying-workshopper](https://github.com/kishorsharma/currying-workshopper)
   - [x] [count-to-6](https://github.com/domenic/count-to-6)
-  - [ ] [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
+  - [x] [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
   - [ ] [learn-generators](https://github.com/isRuslan/learn-generators)
 
 - Javascript Utility Librarys
