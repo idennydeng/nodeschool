@@ -7,17 +7,18 @@
     "lint": "./node_modules/.bin/eslint .;exit 0"
   },
   "devDependencies": {
-    "eslint": "3.19.0",
-    "eslint-plugin-import": "2.2.0",
-    "eslint-config-airbnb-base": "11.2.0",
-    "javascripting": "2.6.1",
-    "scope-chains-closures": "1.0.4",
-    "regex-adventure": "1.1.2",
-    "currying-workshopper": "1.0.17",
-    "functional-javascript-workshop": "1.0.6",
     "count-to-6": "0.8.3",
+    "currying-workshopper": "1.0.17",
+    "eslint": "3.19.0",
+    "eslint-config-airbnb-base": "11.2.0",
+    "eslint-plugin-import": "2.2.0",
+    "functional-javascript-workshop": "1.0.6",
+    "javascripting": "2.6.1",
+    "learn-generators": "1.7.2",
+    "learnyounode": "3.5.10",
     "promise-it-wont-hurt": "1.0.0-alpha.2",
-    "learnyounode": "3.5.10"
+    "regex-adventure": "1.1.2",
+    "scope-chains-closures": "1.0.4"
   },
   "dependencies": {
     "marked": "0.3.6",
