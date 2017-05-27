@@ -20,7 +20,7 @@ These are my solutions for [nodeschool.io](http://nodeschool.io/).
   - [x] [learn-generators](https://github.com/isRuslan/learn-generators)
 
 - Javascript Utility Librarys
-  - [ ] [lololodash](https://github.com/mdunisch/lololodash)
+  - [x] [lololodash](https://github.com/mdunisch/lololodash)
   - [ ] [async-you](https://github.com/bulkan/async-you)
 
 - Front-End JavaScript Frameworks

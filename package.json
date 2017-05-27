@@ -16,11 +16,13 @@
     "javascripting": "2.6.1",
     "learn-generators": "1.7.2",
     "learnyounode": "3.5.10",
+    "lololodash": "0.9.0",
     "promise-it-wont-hurt": "1.0.0-alpha.2",
     "regex-adventure": "1.1.2",
     "scope-chains-closures": "1.0.4"
   },
   "dependencies": {
+    "lodash": "4.17.4",
     "marked": "0.3.6",
     "moment": "2.18.1",
     "q-io": "1.13.4"
