@@ -21,7 +21,7 @@ These are my solutions for [nodeschool.io](http://nodeschool.io/).
 
 - Javascript Utility Librarys
   - [x] [lololodash](https://github.com/mdunisch/lololodash)
-  - [ ] [async-you](https://github.com/bulkan/async-you)
+  - [x] [async-you](https://github.com/bulkan/async-you)
 
 - Front-End JavaScript Frameworks
   - [ ] [learnyoureact](https://github.com/workshopper/learnyoureact)

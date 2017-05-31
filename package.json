@@ -7,6 +7,7 @@
     "lint": "./node_modules/.bin/eslint .;exit 0"
   },
   "devDependencies": {
+    "async-you": "1.1.0",
     "count-to-6": "0.8.3",
     "currying-workshopper": "1.0.17",
     "eslint": "3.19.0",
@@ -22,6 +23,7 @@
     "scope-chains-closures": "1.0.4"
   },
   "dependencies": {
+    "async": "2.4.1",
     "lodash": "4.17.4",
     "marked": "0.3.6",
     "moment": "2.18.1",
